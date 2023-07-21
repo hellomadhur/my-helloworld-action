@@ -1,1 +1,2 @@
-# Simple Action to print "hello world!"
+# Custom Action Example
+Simple Action to print "hello world!"
